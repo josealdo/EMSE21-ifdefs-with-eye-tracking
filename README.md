@@ -6,7 +6,7 @@ The C preprocessor is widely used in practice. Conditional compilation with #ifd
 
 ## Experiment Material
 
-All tasks, forms, and collected metrics are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Experiment%20Material">here</a>.
+All tasks, forms, and data are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Experiment%20Material">here</a>.
 
 ## Results
 
