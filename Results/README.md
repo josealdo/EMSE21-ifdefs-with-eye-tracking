@@ -1,10 +1,12 @@
 # Summarizing the results for our Reserach Questions (RQs)
 
-##### Finding 1: After applying R1 or R3, novices exhibit faster task comple- tion. Faster task completion is also exhibited by novices after applying R1, R2, and R3.
+Table 1: Summarizing the results for time completion (RQ1). Bold font represents statistically significant differences.
 
 <p align="center">
   <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/RQ1.png" width="700" title="hover text">
-</p>Table 1: Summarizing the results for time completion (RQ1). Bold font represents statistically significant differences.
+</p>
+
+##### Finding 1: After applying R1 or R3, novices exhibit faster task comple- tion. Faster task completion is also exhibited by novices after applying R1, R2, and R3.
 
 
 Table 2: Summarizing the results for the accuracy (RQ2). Bold font represents statistically significant differences.
