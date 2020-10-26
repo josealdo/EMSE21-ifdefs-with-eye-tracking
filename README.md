@@ -10,10 +10,10 @@ All collected data is available <a href="https://github.com/josealdo/EMSE20-ifde
 
 ## Results
 
-All collected data is available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Experiment%20Material">here</a>.
+All collected data is available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results">here</a>.
 
 ## Graphical Visualizations for Heatmaps, Gaze Transitions, and Scans
 
-All collected data is available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Experiment%20Material">here</a>.
+All collected data is available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Graphical%20Visualizations">here</a>.
 
 
