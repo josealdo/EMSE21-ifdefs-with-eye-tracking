@@ -14,6 +14,6 @@ All tables summarizing the results are available <a href="https://github.com/jos
 
 ## Graphical Visualizations for Heatmaps, Gaze Transitions, and Scans
 
-All graphical visualizations regarding heatmaps, gaze transitions, and scans are <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Graphical%20Visualizations">here</a>.
+All graphical visualizations regarding heatmaps, gaze transitions, and scans are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Graphical%20Visualizations">here</a>.
 
 
