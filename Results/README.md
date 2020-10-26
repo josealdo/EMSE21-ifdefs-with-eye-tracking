@@ -33,7 +33,7 @@ Table 4: Summarizing the results for the accuracy (RQ4). Bold font represents st
 ##### Finding 4: After applying R1 or R3, novices exhibit less visual effort in AOI. Less visual effort in AOI is also exhibited by novices after applying R1, R2, and R3.
 --------------
 
-#### Complementary Analysis
+## Complementary Analysis
 Table 5: Summarizing the time ouside AOI.
 <p align="center">
   <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/Time Outside AOI.png" width="710" title="hover text">
