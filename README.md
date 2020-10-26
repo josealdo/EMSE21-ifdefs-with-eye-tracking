@@ -10,7 +10,7 @@ All tasks, forms, and collected metrics are available <a href="https://github.co
 
 ## Results
 
-All tables sumarizing the results are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results">here</a>.
+All tables summarizing the results are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results">here</a>.
 
 ## Graphical Visualizations for Heatmaps, Gaze Transitions, and Scans
 
