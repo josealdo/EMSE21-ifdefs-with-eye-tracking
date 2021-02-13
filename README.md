@@ -6,7 +6,7 @@ The C preprocessor is widely used in practice. Conditional compilation with #ifd
 
 ## Experiment Material
 
-All tasks, forms, and data are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Experiment%20Material">here</a>.
+All tasks, forms, reponse time, accuracy, and fixation data of all tasks are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Experiment%20Material">here</a>.
 
 ## Results
 
@@ -14,6 +14,6 @@ All tables summarizing the results are available <a href="https://github.com/jos
 
 ## Graphical Visualizations for Heatmaps, Gaze Transitions, and Scans
 
-All graphical visualizations regarding heatmaps, gaze transitions, and scans are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Graphical%20Visualizations">here</a>.
+All graphical visualizations regarding fixations are available <a href="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Graphical%20Visualizations">here</a>.
 
 
