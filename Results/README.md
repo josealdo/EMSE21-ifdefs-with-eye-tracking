@@ -47,7 +47,7 @@ Table 5: Summarizing the results for regressions count (RQ5). Bold font represen
 ## Complementary Analysis
 Table 5: Summarizing the time the novices spent oustide AOI.
 <p align="center">
-  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/out aoi.png" width="750" title="hover text">
+  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/out aoi.png" width="650" title="hover text">
 </p>
 
 --------------
