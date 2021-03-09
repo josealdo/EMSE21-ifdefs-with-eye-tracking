@@ -47,14 +47,14 @@ Table 5: Summarizing the results for regressions count (RQ5). Bold font represen
 ## Complementary Analysis
 Table 5: Summarizing the time the novices spent oustide AOI.
 <p align="center">
-  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/Time Outside AOI.png" width="710" title="hover text">
+  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/Outside AOI.png" width="710" title="hover text">
 </p>
 
 --------------
 
 Table 6: Summarizing the number of characters in the whole code for all tasks of all projects evaluated.
 <p align="center">
-  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/Characteres in whole code.png" width="900" title="hover text">
+  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/Characteres in code.png" width="900" title="hover text">
 </p>
 
 --------------
