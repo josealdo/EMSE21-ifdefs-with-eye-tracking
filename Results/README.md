@@ -38,7 +38,7 @@ Table 4: Summarizing the results for the accuracy (RQ4). Bold font represents st
 Table 5: Summarizing the results for regressions count (RQ5). Bold font represents statistically significant differences. U = undisciplined annotations; D = disciplined annotations; PD = percentage difference; PV = p-value; ES = effect size. Columns U and D are based on the median as a measure of central tendency.
 
 <p align="center">
-  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/RQ5.png" width="710" title="hover text">
+  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/RQ5.png" width="500" title="hover text">
 </p>
 
 ##### Finding 5: In our study, after applying R1 or R3 in isolation, the novices exhibit a reduction in the regressions count in the AOI. A reduction in the regressions count in the AOI is also exhibited by the novices after applying R1, R2, and R3 in combination.
@@ -47,7 +47,7 @@ Table 5: Summarizing the results for regressions count (RQ5). Bold font represen
 ## Complementary Analysis
 Table 5: Summarizing the time the novices spent oustide AOI.
 <p align="center">
-  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/out aoi.png" width="400" title="hover text">
+  <img src="https://github.com/josealdo/EMSE20-ifdefs-with-eye-tracking/blob/master/Results/Tables/out aoi.png" width="650" title="hover text">
 </p>
 
 --------------
